@@ -193,7 +193,7 @@ campaignTrail_temp.questions_json = [
         "pk": 269,
         "fields": {
             "priority": 3,
-            "description": "SEPTEMBER 5, 2014: After months of brutal fighting, a ceasefire has been signed between the Czechs and Germans which leaves the Sudetenland in Czech control, but preserves Czech independence. President Lipinski touts the ceasefire as evidence that Europe can handle its own affairs. Will you comment?",
+            "description": "SEPTEMBER 5, 2014: After months of brutal fighting, a ceasefire has been signed between the Czechs and Germans which leaves the Sudetenland in German control, but preserves Czech independence. President Lipinski touts the ceasefire as evidence that Europe can handle its own affairs. Will you comment?",
             "likelihood": 1.0
         }
     },
