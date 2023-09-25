@@ -23,6 +23,7 @@ Plans for the future:
  - Reference pols who died IRL - Wellstone?
  - 2019 followup? Or prequel? Eg 1859/64 as 1860 parallel
  - Kennedys?
+ - Canonical results
 
 **Graphics**
  - Banner/custom theme
@@ -30,3 +31,4 @@ Plans for the future:
 
 **Misc**
  - Some infoboxes/electoral maps for /r/IM to add flavor to timeline
+ - Character list here: https://docs.google.com/spreadsheets/d/1rsdMQhKPc4luo-Cvw0KiY0V4Y0MoWZNKTpPsPC-vlzI
