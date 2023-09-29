@@ -8,7 +8,7 @@ Plans for the future:
  - Possibly replace cliched 2016 primary reference
  - Lipinski independent tree
  - Lipinski-McCain coalition tree
- - Flesh out custom endings
+ - Flesh out custom endings - incl new ending for merged party
 
 **McCain:**
  - Total rewrite of most questions
