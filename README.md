@@ -20,6 +20,7 @@ Plans for the future:
 
 **General**
  - More references to history to flesh out timeline
+ - Issue descriptions
  - Reference pols who died IRL - Wellstone?
  - 2019 followup? Or prequel? Eg 1859/64 as 1860 parallel
  - Kennedys?
