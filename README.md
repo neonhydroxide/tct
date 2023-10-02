@@ -4,11 +4,15 @@ Plans for the future:
 
 **Lipinski:**
  - Bugfixes
+ - Fix number of EVs to address possible tie (163-163 apparently possible)
+ - Ending question northeast boost fix
+ - Add gregoire tag to the Cheney question
+ - "Couple of other very minor bugs I noticed as well (both issue scores so I could be wrong), calling for Cheney to resign should probably be a plus to Social score instead of a minus and going Nimby should be a minus to Econ instead of a plus"
  - Pawlenty tree? (Also rethink replacing Pawlenty with someone more appropriate - Ben Nelson?)
  - Possibly replace cliched 2016 primary reference
  - Lipinski independent tree
  - Lipinski-McCain coalition tree
- - Flesh out custom endings - incl new ending for merged party
+ - Flesh out custom endings - incl new ending for merged party (so it doesn't act like democrats vanish from the face of the earth)
 
 **McCain:**
  - Total rewrite of most questions
@@ -24,7 +28,8 @@ Plans for the future:
  - Reference pols who died IRL - Wellstone?
  - 2019 followup? Or prequel? Eg 1859/64 as 1860 parallel
  - Kennedys?
- - Canonical results
+ - Canonical results (do results box for further reading
+ - 
 
 **Graphics**
  - Banner/custom theme
